@@ -3,8 +3,9 @@
 ## 📲 برنامه های اندروید
 
 ### 1. V2RayNG - قدرتمندترین کلاینت V2Ray
-[![خرید از تلگرام](https://img.shields.io/badge/Telegram-دریافت%20رایگان-blue?style=for-the-badge&logo=telegram)](https://t.me/vpngram_admin)
-[![پشتیبانی](https://img.shields.io/badge/Chat-راهنمای%20نصب-green?style=for-the-badge)](http://goftino.com/c/YWA45p)
+[خرید از تلگرام](https://t.me/vpngram_admin)
+
+[خرید از چت](http://goftino.com/c/YWA45p)
 
 🔹 پشتیبانی از تمام پروتکل‌های مدرن  
 🔹 امکان تست سرعت داخلی  
